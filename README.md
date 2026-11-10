@@ -1,71 +1,78 @@
-# Hi there, I'm StoneKnocker (Xianyang Lu) 👋
+# StoneKnocker (Xianyang Lu)
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&width=650&lines=Fintech+Architect+turned+Indie+Founder;Shipping+AI-native+Micro-SaaS+%26+SEO+tools;Father+raising+the+next+generation+of+creators;Endurance+cyclist+%26+alpine+trail+hiker." alt="Typing SVG" />
+**Full-Stack Solopreneur · Ex-FinTech Architect · AI Micro-Studio Owner**
+
+<p>
+  <a href="https://x.com/staluxy"><img src="https://img.shields.io/badge/X-@staluxy-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="mailto:emluxy@gmail.com"><img src="https://img.shields.io/badge/Email-emluxy%40gmail.com-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/StoneKnocker"><img src="https://img.shields.io/badge/GitHub-StoneKnocker-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-[![Twitter / X](https://img.shields.io/badge/X-@staluxy-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/staluxy)
-[![Email](https://img.shields.io/badge/Email-emluxy@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emluxy@gmail.com)
+---
+
+### The Philosophy
+
+> *"Code is the craft, distribution is the engine, and autonomy is the destination."*
+
+Former FinTech and high-concurrency systems architect with 12+ years of enterprise engineering experience, now operating as an independent software founder. I build reliable, automated AI-native SaaS products and growth utilities for a global market.
 
 ---
 
-### 💡 The Philosophy
+### Active Ventures
 
-> *"Code is the craft, business is the engine, and autonomy is the destination."*
+I operate as a solo builder and micro-studio owner. Here are the active products and utility tools in my portfolio:
 
-For over a decade, I engineered mission-critical banking backends, multi-tier distribution platforms handling tens of millions of daily tasks, and enterprise financial billing engines. Today, I'm channeling that engineering discipline into **independent software entrepreneurship**.
-
-I build, launch, and scale **AI-native micro-SaaS and growth-engineering tools** for a global audience—leveraging modern edge runtimes and AI workflows to turn high-conviction ideas into revenue-generating software quickly.
-
----
-
-### 🚀 What I'm Shipping (Building in Public)
-
-I operate as a solo builder and micro-studio owner. Here are some of the active ventures and public builds in my workshop:
-
-| Venture / Project | Focus & Core Value | Architecture & Tech | Stage |
+| Venture | Value Proposition | Architecture & Runtime | Status |
 | :--- | :--- | :--- | :--- |
-| **PiTarot** | Free AI-driven tarot & reflective journaling platform. | React Router, Cloudflare Workers, Edge AI | 🟢 Live |
-| **Growth & Community Radar** (`subreddit-analyzer`) | Micro-market signal detection & sentiment research across niche communities. | TypeScript, Serverless API | 🧪 In Evolution |
-| **AI Micro-SaaS Boilerplates** (`flow-ai-fx`) | High-speed, edge-ready SaaS starter templates built for solopreneurs. | TanStack Start, Cloudflare | 🛠️ Shipping |
+| **[Flow AI Fx](https://flowaifx.app/)** | Unified AI creative studio for generating video, image, music, and voice drafts in one workspace. | Next.js, Cloudflare, AI Model Routing | Live |
+| **[PiTarot](https://pitarot.com/)** | Free AI-powered tarot readings and reflective daily card spreads on the edge. | React Router, Cloudflare Workers, Edge AI | Live |
+| **Backlink Engine** (`bb-backlink`) | Automated backlink discovery and site authority extraction for bootstrapped distribution. | Python, Headless Scrapers, Node.js | Internal Tool |
+| **Community Radar** (`subreddit-analyzer`) | Niche market demand detection and sentiment research across developer & creator forums. | TypeScript, Serverless API | Active Utility |
 
-*Bootstrapped with $0 in paid marketing — already validated initial product-market fit ($1000+ MRR) purely through organic distribution and utility-first software.*
-
----
-
-### ⚡ The Unfair Advantage: Enterprise Rigor × Solo Velocity
-
-Most indie products crumble when real traffic or complex billing hits. Most enterprise engineers never learn distribution. I bridge both:
-
-- **🛡️ Enterprise Reliability DNA**: 12+ years of battle-tested backend experience. Designed ISO8583 banking transaction gateways with software-simulated 3DES encryption, handled 4M+ user affiliate distribution with RocketMQ peak-shaving, and managed zero-error financial settlement systems.
-- **⚡ 10x Velocity via AI**: Heavy practitioner of Cursor, Claude Code, and agentic workflows to accelerate architecture design, refactoring, and full-stack delivery from 3 months to 5 days.
-- **🎯 Full-Loop Solopreneurship**: Breaking boundaries between backend, frontend (Next.js, TypeScript), distribution (SEO, organic growth, community loops), and product monetization.
+*Bootstrapped with $0 in paid marketing — already validated initial product-market fit ($100+ MRR) purely through organic distribution and utility-first software.*
 
 ---
 
-### 🧰 Toolkit & Capabilities
+### Background & Capabilities
 
-```text
-Full-Stack & Edge    : TypeScript, Next.js, React, TanStack, Node.js, Cloudflare Workers / Pages
-Systems & Core Arch  : Java, Spring Boot, Microservices, Distributed Transactions, RocketMQ, Redis, MySQL
-AI & Dev Velocity    : Cursor, Claude Code, AI Agents, Python
-Growth & Ops         : Organic SEO, Programmatic Pages, Reverse-Engineering Backlinks, PLG
-```
+Most indie products struggle when real concurrency or billing complexity arrives. Most enterprise engineers never learn distribution. I bridge both domains:
 
----
-
-### 🌲 Life Beyond the Terminal
-
-- 👨‍👧‍👦 **Father to a Boy & a Girl**: My highest-calling venture. I am actively raising them to be **creators, thinkers, and builders**, not just passive consumers of algorithms.
-- 🚴‍♂️ **Endurance Cycling & Trail Hiking**: Long-distance rides and mountain trails keep me grounded. The patience required to climb a 20-kilometer pass is the same patience required to bootstrap a profitable software business.
-- 🎒 **Slow Travel & Exploration**: Passionate about wandering through new cities and landscapes, absorbing perspectives that inform the products I build for a global audience.
+- **Enterprise Resilience**: 12+ years engineering mission-critical backends: core banking transaction gateways (ISO8583, 3DES encryption), multi-tier distribution platforms (RocketMQ peak-shaving for 4M+ affiliates and 200k+ daily transactions), and enterprise settlement engines. Built with a zero-downtime mindset.
+- **AI-Accelerated Velocity**: Leveraging modern agentic workflows (Cursor, Claude Code) to turn architectural blueprints into production deployments in days rather than quarters.
+- **Full-Loop Independence**: Bridging the gap between distributed backend reliability, modern frontend design (Next.js, TypeScript), and global organic distribution (SEO, programmatic pages, community-led growth).
 
 ---
 
-### 🤝 Let's Connect
+### Stack & Tools
 
-Whether you're an indie maker building in public, looking for robust enterprise-grade engineering advice, or exploring cross-border B2B collaboration:
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,cloudflare,java,spring,postgres,redis,python" alt="Technology Stack" />
+</p>
 
-- 𝕏 **Follow my build journey on X**: [@staluxy](https://x.com/staluxy)
-- 📬 **Reach out directly**: [emluxy@gmail.com](mailto:emluxy@gmail.com)
+- **Frontend & Edge**: TypeScript, Next.js, React Router, Tailwind CSS, Cloudflare Workers & Pages
+- **Systems & Architecture**: Java, Spring Boot, Microservices, Distributed Transactions, RocketMQ, Redis, PostgreSQL, MySQL
+- **AI & Automation**: Cursor, Claude Code, Agentic Workflows, Python Scrapers
+- **Growth & Operations**: Technical SEO, Programmatic Landing Pages, Organic Backlink Discovery, PLG
 
+---
+
+### Beyond the Terminal
+
+- **Father of two (son & daughter)**: Dedicated to mentoring them to grow up as creators and builders rather than passive consumers of algorithms.
+- **Endurance cycling & trail hiking**: Long-distance rides and alpine trails cultivate the resilience and pacing essential for sustainable bootstrapping.
+- **Global travel & cultural exploration**: Drawing inspiration from diverse cultures to craft intuitive software for an international audience.
+
+---
+
+### Connect
+
+- X / Twitter: [@staluxy](https://x.com/staluxy)
+- Email: [emluxy@gmail.com](mailto:emluxy@gmail.com)
+- GitHub: [github.com/StoneKnocker](https://github.com/StoneKnocker)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StoneKnocker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StoneKnocker&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
