@@ -5,7 +5,6 @@
 <p>
   <a href="https://x.com/staluxy"><img src="https://img.shields.io/badge/X-@staluxy-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" /></a>
   <a href="mailto:emluxy@gmail.com"><img src="https://img.shields.io/badge/Email-emluxy%40gmail.com-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/StoneKnocker"><img src="https://img.shields.io/badge/GitHub-StoneKnocker-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
@@ -26,10 +25,9 @@ I operate as a solo builder and micro-studio owner. Here are the active products
 | :--- | :--- | :--- | :--- |
 | **[Flow AI Fx](https://flowaifx.app/)** | Unified AI creative studio for generating video, image, music, and voice drafts in one workspace. | Next.js, Cloudflare, AI Model Routing | Live |
 | **[PiTarot](https://pitarot.com/)** | Free AI-powered tarot readings and reflective daily card spreads on the edge. | React Router, Cloudflare Workers, Edge AI | Live |
-| **Backlink Engine** (`bb-backlink`) | Automated backlink discovery and site authority extraction for bootstrapped distribution. | Python, Headless Scrapers, Node.js | Internal Tool |
 | **Community Radar** (`subreddit-analyzer`) | Niche market demand detection and sentiment research across developer & creator forums. | TypeScript, Serverless API | Active Utility |
 
-*Bootstrapped with $0 in paid marketing — already validated initial product-market fit ($100+ MRR) purely through organic distribution and utility-first software.*
+*Bootstrapped with $0 in paid marketing — already validated initial product-market fit ($1000+ MRR) purely through organic distribution and utility-first software.*
 
 ---
 
@@ -68,11 +66,4 @@ Most indie products struggle when real concurrency or billing complexity arrives
 
 - X / Twitter: [@staluxy](https://x.com/staluxy)
 - Email: [emluxy@gmail.com](mailto:emluxy@gmail.com)
-- GitHub: [github.com/StoneKnocker](https://github.com/StoneKnocker)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StoneKnocker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StoneKnocker&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
