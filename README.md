@@ -29,7 +29,7 @@ I operate as a solo builder and micro-studio owner. Here are some of the active 
 | **Growth & Community Radar** (`subreddit-analyzer`) | Micro-market signal detection & sentiment research across niche communities. | TypeScript, Serverless API | 🧪 In Evolution |
 | **AI Micro-SaaS Boilerplates** (`flow-ai-fx`) | High-speed, edge-ready SaaS starter templates built for solopreneurs. | TanStack Start, Cloudflare | 🛠️ Shipping |
 
-*Bootstrapped with $0 in paid marketing — already validated initial product-market fit ($100+ MRR) purely through organic distribution and utility-first software.*
+*Bootstrapped with $0 in paid marketing — already validated initial product-market fit ($1000+ MRR) purely through organic distribution and utility-first software.*
 
 ---
 
