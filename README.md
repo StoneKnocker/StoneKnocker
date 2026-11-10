@@ -26,9 +26,8 @@ I operate as a solo builder and micro-studio owner. Here are some of the active 
 | Venture / Project | Focus & Core Value | Architecture & Tech | Stage |
 | :--- | :--- | :--- | :--- |
 | **PiTarot** | Free AI-driven tarot & reflective journaling platform. | React Router, Cloudflare Workers, Edge AI | 🟢 Live |
-| **SEO & Backlink Engine** (`bb-backlink`) | Automated backlink discovery and domain authority extraction utility for indie makers. | Python, Node.js, Headless Scrapers | 🟡 Active Tool |
 | **Growth & Community Radar** (`subreddit-analyzer`) | Micro-market signal detection & sentiment research across niche communities. | TypeScript, Serverless API | 🧪 In Evolution |
-| **AI Micro-SaaS Boilerplates** (`flow-ai-fx`) | High-speed, edge-ready SaaS starter templates built for solopreneurs. | TanStack Start, Next.js, Cloudflare | 🛠️ Shipping |
+| **AI Micro-SaaS Boilerplates** (`flow-ai-fx`) | High-speed, edge-ready SaaS starter templates built for solopreneurs. | TanStack Start, Cloudflare | 🛠️ Shipping |
 
 *Bootstrapped with $0 in paid marketing — already validated initial product-market fit ($100+ MRR) purely through organic distribution and utility-first software.*
 
@@ -69,11 +68,4 @@ Whether you're an indie maker building in public, looking for robust enterprise-
 
 - 𝕏 **Follow my build journey on X**: [@staluxy](https://x.com/staluxy)
 - 📬 **Reach out directly**: [emluxy@gmail.com](mailto:emluxy@gmail.com)
-- 🐙 **Explore my open repositories**: [github.com/StoneKnocker](https://github.com/StoneKnocker)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StoneKnocker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StoneKnocker&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
