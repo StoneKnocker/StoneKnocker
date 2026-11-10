@@ -15,7 +15,7 @@
 
 For over a decade, I engineered mission-critical banking backends, multi-tier distribution platforms handling tens of millions of daily tasks, and enterprise financial billing engines. Today, I'm channeling that engineering discipline into **independent software entrepreneurship**.
 
-I build, launch, and scale **AI-native micro-SaaS and growth-engineering tools** for a global audience—leveraging modern edge runtimes and AI workflows to turn high-conviction ideas into revenue-generating software in days, not quarters.
+I build, launch, and scale **AI-native micro-SaaS and growth-engineering tools** for a global audience—leveraging modern edge runtimes and AI workflows to turn high-conviction ideas into revenue-generating software quickly.
 
 ---
 
